@@ -1,0 +1,15 @@
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/aqza
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/aqza.deps.json
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/aqza.runtimeconfig.json
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/aqza.dll
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/aqza.pdb
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.AssemblyInfoInputs.cache
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.AssemblyInfo.cs
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.dll
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/refint/aqza.dll
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.pdb
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.genruntimeconfig.cache
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/ref/aqza.dll
