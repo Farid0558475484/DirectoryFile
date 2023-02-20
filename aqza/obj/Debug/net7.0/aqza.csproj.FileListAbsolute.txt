@@ -13,3 +13,5 @@
 /Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.pdb
 /Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.genruntimeconfig.cache
 /Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/ref/aqza.dll
+/Users/xamyak/Desktop/aqza/aqza/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/xamyak/Desktop/aqza/aqza/obj/Debug/net7.0/aqza.csproj.CopyComplete

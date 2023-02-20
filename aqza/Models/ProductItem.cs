@@ -3,9 +3,10 @@ namespace aqza.Models
 {
 	public class ProductItem
 	{
-		public ProductItem()
-		{
-		}
+		public int Id { get; set; }
+		public Product Product { get; set; } = null!;
+		public double TotalPrice { get; set; }
+
 	}
 }
 
